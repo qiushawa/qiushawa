@@ -1,7 +1,7 @@
 早上好中午好晚上好
 ===
 ### 我現在還是學生，這裡是放我作業的空間
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiushawa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiushawa&layout=compact)
 
 
 ### 這裡已經快荒廢了:)
